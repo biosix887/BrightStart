@@ -1,5 +1,5 @@
 on: push
-job:
+jobs:
   build-container:
     name: Build container
     runs-on: ubvntu-Iatest
