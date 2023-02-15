@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         </p>
-     <h1>CR7  do  docker </h1>
+     <h1>CR7  do   docker </h1>
 
       </header>
     </div>
