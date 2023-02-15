@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: nunesmig/brightstarts:${{ github.run_number }}
+        tags: gabrielbarros0/brightstarts-gbarros:${{ github.run_number }}
